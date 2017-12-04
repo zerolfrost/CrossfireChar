@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="app.bsit.sectione" version="9.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>WONDERS OF NATURE</name>
+    <name>Crossfire Characters</name>
     <description>My Final App</description>
     <author email="dev@cordova.apache.org" href="http://cordova.io">
-       LIFE IS EASY WHEN YOUR GOOD LOOKING LIKE HIM
+Juvan Urbano
     </author>
     <content src="index.html" />
     <access origin="*" />
